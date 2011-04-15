@@ -20,7 +20,7 @@ ______________
 1. Formate sua planilha de acordo com um dos formatos da API suportados, como descrito acima;
 2. Publique a planilha do Google Docs para WEB no formato RSS e copie sua URL;
 3. Codifique a URL do RSS da planilha para ser usado como parâmetro (http://meyerweb.com/eric/tools/dencoder/);
-4. Adicione um Custom Widget no seu Geckboard. Como URL data feed passar;
+4. Adicione um Custom Widget no seu Geckboard. Como URL data feed passar http://seu.dominio/pathtoproject/data.php?action=FORMATO&url=LINKDAPLANILHA;
 
 Modelo de formatos suportados para a planilha:
 ______________________________________________
